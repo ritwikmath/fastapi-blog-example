@@ -1,4 +1,4 @@
 __pycache__
 fastapienv
-error_logs/*
+error_logs/error_*
 .env
