@@ -1,5 +1,0 @@
- ./db.py
- ./main.py
- ./router.py
- ./model.py
- ./schema.py
